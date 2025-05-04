@@ -1,0 +1,12 @@
+Assignment 1 - Notes
+
+Topic: Introduction to Data Science
+
+- Data Science is the study of data to extract meaningful insights.
+- It combines statistics, programming, and domain knowledge.
+- Key tools and languages: Python, R, SQL, Jupyter Notebooks.
+- Important steps: Data Collection, Cleaning, Analysis, Visualization, and Modeling.
+- Applications: Business analytics, healthcare predictions, recommendation systems, and more.
+
+Submitted by: [Himabindhu Thummalapalli]
+Date: [5/4/2025]
